@@ -1,0 +1,1 @@
+{"name":"makefun-coin","type":"module","private":true,"dependencies":{"@solana/web3.js":"^1.99.0","tweetnacl":"^1.0.3"}}

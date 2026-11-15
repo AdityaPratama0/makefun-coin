@@ -1,0 +1,4 @@
+node_modules/
+pump-fun-pump-sdk-*/
+*.tgz
+*.json
